@@ -1,4 +1,4 @@
-name = "New Super Mario Bros. DS"
+display_name = "New Super Mario Bros. DS"
 name = "nsmbds"
 home = "https://discord.com/channels/731205301247803413/1389178071873097770"
 default_url = "https://github.com/Lemix028/Archipelago-NewSuperMarioBrosDS/releases/download/nsmbds-v{{version}}-unstable/nsmbds.apworld"
