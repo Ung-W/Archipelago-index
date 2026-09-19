@@ -1,4 +1,5 @@
-name = "Metal: Hellsinger"
+display_name = "Metal: Hellsinger"
+name = "metal_hellsinger"
 home = "https://discord.com/channels/731205301247803413/1502575733569228912"
 default_url = "https://github.com/DanielSchaack/ArchipelagoMetalHellsinger/releases/download/{{version}}/metal_hellsinger.apworld"
 
